@@ -1,8 +1,6 @@
 # Junseo Kang
 Undegraduate Student in Seoul Nat'l University, College of Agriculture and Life Science
 
-![Avatar](https://avatars.githubusercontent.com/u/24494892?v=4)
-
 ### Artificial Intelligence Engineer, mostly interested in Application on Biology
 
 ### Junseo Kang
