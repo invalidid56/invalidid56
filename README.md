@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 # Junseo Kang
 Undegraduate Student in Seoul Nat'l University, College of Agriculture and Life Science
 
