@@ -14,33 +14,20 @@
 
 
 ## My Tech Stacks:
-### AI/ML
+**AI/ML**
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch%20Lightning-792EE5?style=flat-square&logo=Pytorch Lightning&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
 
-### Backend
-
+**Backend**
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=Amazon RDS&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 
 
-### Data
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=Julia&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
-
-
-
-
-
-
-
-
+**Data**
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=Julia&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
 
 
 ## You can contact me here:
-
-
 
 <a href="https://github.com/invalidid56"><img src="https://img.shields.io/badge/Github-Black?style=flat-square&logo=Github&logoColor=balck"/></a> 
 <a href="https://www.instagram.com/junseokangofficial/"><img src="https://img.shields.io/badge/Instagram-3DDC84?style=flat-square&logo=Instagram&logoColor=white"/></a>
