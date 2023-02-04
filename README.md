@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Junseo%20Kang&fontSize=90&fontColor=d6ace6)
 
-
+<div align="center">
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finvalidid56&count_bg=%2379C83D&title_bg=%23555555&icon=tensorflow.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/invalidid56)
+</div>
 
-***I am ML/MLOps Engineer, also Bakend Engineer***
+***Pioneer of AI-Biology & MLOps Engineer***
 
 ## My Interests are:
 * AI based Approach on Biotechnology (Genome Sequencing, Desease Diagnosis.. etc)
