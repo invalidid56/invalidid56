@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=300&section=header&text=Junseo%20Kangr&fontSize=90&animation:fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=300&section=header&text=Junseo%20Kang&fontSize=90)
 
 <div align="center">
   # Hii Junseo Kang
