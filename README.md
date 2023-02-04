@@ -41,7 +41,7 @@
 <a href="https://github.com/invalidid56"><img src="https://img.shields.io/badge/Github-Black?style=flat-square&logo=Github&logoColor=balck"/></a> 
 <a href="https://www.instagram.com/junseokangofficial/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/junseo-kang-9b3a7b226"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-<a href="invalidid56.oopy.io"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://invalidid56.oopy.io"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
  </div>
 
 
