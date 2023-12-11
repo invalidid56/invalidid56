@@ -2,9 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finvalidid56&count_bg=%2379C83D&title_bg=%23555555&icon=tensorflow.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/invalidid56)
 
-***🚀 Pioneer of AI-Biology & 📈 MLOps Engineer & 🌱 Ag-Tech Researcher***
 
-## My Interests are:
+## My Interests are like this:
 * AI based Approach on Biotechnology (Genome Sequencing, Desease Diagnosis.. etc)
 * Managing Machine Learning Project for its Whole Lifecycle: Gather, Optimize, Deploy
 * Building Projects and Applying AI Tech to it
@@ -39,9 +38,7 @@
 <div align="center">
 
 <a href="https://github.com/invalidid56"><img src="https://img.shields.io/badge/Github-Black?style=flat-square&logo=Github&logoColor=balck"/></a> 
-<a href="https://www.instagram.com/junseokangofficial/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/junseo-kang-9b3a7b226"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-<a href="https://invalidid56.oopy.io"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
  </div>
 
 
